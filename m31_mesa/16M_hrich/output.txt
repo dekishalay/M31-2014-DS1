@@ -1,5 +1,0 @@
-DATE: 2025-01-24
-TIME: 12:57:58
-run inlist_to_end_core_c_burn_header
-DATE: 2025-01-24
-TIME: 12:57:58
